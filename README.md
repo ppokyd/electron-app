@@ -1,2 +1,1 @@
-# electron-app
-My first electron app
+### My First Electron App
